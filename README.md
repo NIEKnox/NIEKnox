@@ -1,5 +1,5 @@
 # About
-In my day job, I work as an assistant database researcher. This role involves curating datasets and maintaining databases, as well as performing analyses. You can find more about my professional career on my LinkedIn profile <a href="linkedin.com/in/noah-knox">here</a>. I'm always open to connection requests and messages, so feel free to reach out!
+In my day job, I work as an assistant database researcher. This role involves curating datasets and maintaining databases, as well as performing analyses. You can find more about my professional career on my LinkedIn profile <a href="https://www.linkedin.com/in/noah-knox/">here</a>. I'm always open to connection requests and messages, so feel free to reach out!
 
 In my free time, I love to code, analyze data, and build things! Some important subcategories of projects you can find on my page can be found below.
 
